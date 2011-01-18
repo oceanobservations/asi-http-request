@@ -1,0 +1,8 @@
+//
+//  SXBMApplication.xcconfig
+//
+
+PRODUCT_BASE_NAME = ASIHTTPRequest
+PRODUCT_NAME = ASIHTTPRequest
+
+SXBM_HOST_WARNING_CFLAGS = -Wno-pointer-arith -Wno-float-equal -Wno-unused-function
