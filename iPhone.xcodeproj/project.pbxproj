@@ -149,7 +149,6 @@
 		CFCF183012E5CE980058C6AB /* ASIHTTPRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = B55B60470F765A320064029C /* ASIHTTPRequest.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CFCF183112E5CE980058C6AB /* ASIInputStream.h in Headers */ = {isa = PBXBuildFile; fileRef = B522DACC1030B2AB009A2D22 /* ASIInputStream.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CFCF183412E5CEDE0058C6AB /* Reachability.h in Headers */ = {isa = PBXBuildFile; fileRef = B55252B211D22E2200F9B170 /* Reachability.h */; };
-		CFCF183512E5CEF00058C6AB /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = B55252B311D22E2200F9B170 /* Reachability.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -1043,7 +1042,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CFCF183512E5CEF00058C6AB /* Reachability.m in Sources */,
 				CFCF181E12E5CE670058C6AB /* ASIDataCompressor.m in Sources */,
 				CFCF181F12E5CE670058C6AB /* ASINetworkQueue.m in Sources */,
 				CFCF182012E5CE670058C6AB /* ASIFormDataRequest.m in Sources */,
