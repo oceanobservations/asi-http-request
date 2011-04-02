@@ -1,6 +1,6 @@
 [submodule "External/GHUnit"]
 	path = External/GHUnit
-	url = git://github.com/gabriel/gh-unit.git
+	url = git://github.com/niblh/gh-unit.git
 [submodule "Vendor/SXBM"]
 	path = Vendor/SXBM
-	url = ssh://christoffer@niblha.dyndns.org/home/christoffer/scm/git/niblha/SXBM
+	url = git@github.com:oceanobservations/SXBM.git
